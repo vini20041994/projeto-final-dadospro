@@ -1,0 +1,7 @@
+motivo_rejeicao,eventos,tipos_de_evento,exemplo_evento,arquivos_origem
+timestamp ausente ou futuro,948,12,click,207
+valor monetário inválido,349,9,add_payment_info,226
+marco fora do padrão,272,1,scroll,62
+evento fora do catálogo,271,1,add_to_wishlist,60
+reembolso sem compra,32,1,refund,23
+transação sem id,31,1,purchase,26
